@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+}
+img{
+    height: 100px;
+}
+#rudra{
+    text-align: left;
+}
+#fineart{
+    text-align: left;
+}
+#certidis{
+    text-align: left;
+}
+#bagdis{
+    text-align: left;
+}
+#icon{
+    margin-left: 40%;
+    height:150px;
+    
+}
+#grade{
+    height: 50px;
+    margin-left:45%;
+    
+}
+div{
+    margin: 3rem;
+    
+}
+#parli{
+    text-align: left;
+}
+footer{
+    background-color: #999999;
+    text-align: center;
+    margin-top: 1rem;
+}
+body{
+    background-color:lightcyan
+}
